@@ -4,7 +4,7 @@
   border-width: 1px
 }
 .heading{
-  color: #DB6542;
+  color: #DB4A42;
   
 }
 .description-h{
@@ -12,7 +12,7 @@
   font-size: 20px;
 }
 .description{
-  color: #DB8042;
+  color: #DB9A42;
   font-size: 17px 
 }
 .ingredients-h{
@@ -20,7 +20,7 @@
   font-size: 20px
 }
 .ingredients{
-  color: #DB8042;
+  color: #DB9A42;
   font-size: 17px
 }
 .steps-h{
@@ -28,7 +28,7 @@
   font-size: 20px
 }
 .steps{
-  color: #DB8042;
+  color: #DB9A42;
   font-size: 17px;
 }
 
