@@ -3,6 +3,10 @@
   border-color: black;
   border-width: 1px
 }
+.c-heading{
+  font-size: 27px;
+  color: #DCAB36;
+}
 .heading{
   color: #DB4A42;
   font-size: 30px;
