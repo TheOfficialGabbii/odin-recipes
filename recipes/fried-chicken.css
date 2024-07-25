@@ -3,6 +3,33 @@
   border-color: black;
   border-width: 1px
 }
-
+.heading{
+  color: #DB6542;
+  
+}
+.description-h{
+  color: #DB6542;
+  font-size: 20px;
+}
+.description{
+  color: #DB8042;
+  font-size: 17px 
+}
+.ingredients-h{
+  color: #DB6542;
+  font-size: 20px
+}
+.ingredients{
+  color: #DB8042;
+  font-size: 17px
+}
+.steps-h{
+  color: #DB6542;
+  font-size: 20px
+}
+.steps{
+  color: #DB8042;
+  font-size: 17px;
+}
 
 
